@@ -95,7 +95,7 @@ The objective is to minimize prediction error while identifying patterns related
 
 ## 📈 Results
 - Machine learning models successfully identified patterns in batting performance  
-- Decision Tree performed better in capturing **non-linear relationships**  
+- Linear Regression performed better than the Decision Tree model and produced more accurate predictions for batting performance in this project. 
 - Features such as balls faced and previous runs had strong influence  
 - Predictions help identify consistent and high-performing players  
 
@@ -108,13 +108,14 @@ This project demonstrates how machine learning can be effectively applied to cri
 
 ## 📚 References
 - Scikit-learn: (https://scikit-learn.org/stable/)  
-- Pandas: https://pandas.pydata.org/  
-- NumPy: https://www.w3schools.com/python/numpy/numpy_intro.asp  
-- Matplotlib: https://www.w3schools.com/python/matplotlib_pyplot.asp  
-- Seaborn: https://seaborn.pydata.org/  
+- Pandas: https:(//pandas.pydata.org/)  
+- NumPy: https:(//www.w3schools.com/python/numpy/numpy_intro.asp)  
+- Matplotlib: (https://www.w3schools.com/python/matplotlib_pyplot.asp)  
+- Seaborn: (https://seaborn.pydata.org/)  
 
  ---
 
  ##Link of colab to access the whole code 
+ 
  https://colab.research.google.com/drive/1Hz2Uplydec1RB-vB4WJhGT4oEJxblE1b#scrollTo=YotiUqjSoFqn
-
+ ---
