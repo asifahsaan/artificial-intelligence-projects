@@ -1,5 +1,14 @@
 # Cricket Performance Predictor using Machine Learning (Batting)
 
+## 👨‍💻 Team Members
+- **Imad Khan** (SAP ID: 70136085)  
+- **Shahiryar Ahmed** (SAP ID: 70136052)  
+- **Arooj Fatima** (SAP ID: 70136139)
+
+  ---
+
+
+
 ## 📌 Project Overview
 Cricket performance prediction plays an important role in modern sports analytics by helping teams and analysts make informed decisions.  
 This project focuses on predicting a cricket player’s **batting performance** using **machine learning techniques** based on historical data.
@@ -104,10 +113,5 @@ This project demonstrates how machine learning can be effectively applied to cri
 - Matplotlib: https://www.w3schools.com/python/matplotlib_pyplot.asp  
 - Seaborn: https://seaborn.pydata.org/  
 
----
-
-## 👨‍💻 Team Members
-- **Imad Khan** (SAP ID: 70136085)  
-- **Shahiryar Ahmed** (SAP ID: 70136052)  
-- **Arooj Fatima** (SAP ID: 70136139)  
+ 
 
