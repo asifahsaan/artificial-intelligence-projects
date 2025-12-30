@@ -1,6 +1,6 @@
 Plant Disease Detection Using Artificial Intelligence
 
-Student Name
+Student Name(s)
 - Syed Zain Ul Abideen (70136911)
 - M. Shaiman Sherazi (70139058)
 - Anisa Saeed (70129983)
