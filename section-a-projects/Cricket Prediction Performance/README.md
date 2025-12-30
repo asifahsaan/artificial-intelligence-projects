@@ -107,11 +107,14 @@ This project demonstrates how machine learning can be effectively applied to cri
 ---
 
 ## 📚 References
-- Scikit-learn: https://scikit-learn.org/stable/  
+- Scikit-learn: (https://scikit-learn.org/stable/)  
 - Pandas: https://pandas.pydata.org/  
 - NumPy: https://www.w3schools.com/python/numpy/numpy_intro.asp  
 - Matplotlib: https://www.w3schools.com/python/matplotlib_pyplot.asp  
 - Seaborn: https://seaborn.pydata.org/  
 
- 
+ ---
+
+ ##Link of colab to access the whole code 
+ https://colab.research.google.com/drive/1Hz2Uplydec1RB-vB4WJhGT4oEJxblE1b#scrollTo=YotiUqjSoFqn
 
