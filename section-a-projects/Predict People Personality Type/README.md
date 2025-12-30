@@ -1,9 +1,13 @@
 Project Title: - Predict People Personality Types
 
 Student Names:- 
+
 Muhammad Aamir Khan ( 70135237 )
+
             Kamal Nasir (70135616)
+            
             Khawaja Basit Mehmood ( 70136726 )
+            
             Muhammad Shahbaz ( 70134556 )
             
 Problem Statement: - Predicting a person's MBTI personality type based on their social media text using machine learning
