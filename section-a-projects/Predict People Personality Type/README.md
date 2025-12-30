@@ -1,8 +1,8 @@
 Project Title: - Predict People Personality Types
 
 Student Names:- 
-
-Muhammad Aamir Khan ( 70135237 )
+            
+            Muhammad Aamir Khan ( 70135237 )
 
             Kamal Nasir (70135616)
             
