@@ -24,19 +24,8 @@ This ensures transparent version history, timestamps, and a standardized grading
 
 Inside `section-b-projects/`, create exactly **one folder** using the format:
 
-firstname-lastname
-
-Examples
-- section-b-projects/ali-khan
-- section-b-projects/sara-ahmed
-
-Team Projects
-
-If you are submitting as a team, use:
-section-b-projects/team-teamname
-
-Example:
-- section-b-projects/team-alpha
+project-title
+- section-b-projects/disease-prediction
 
 ---
 
