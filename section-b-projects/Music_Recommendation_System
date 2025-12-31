@@ -1,0 +1,8 @@
+Name: Muhammad Hashir, Zohaib Hassan,
+Umair Yousaf, Muhammad Talha
+Sap ID: 70137237, 70138058, 70137484,
+70138652
+This project focuses on analyzing a Spotify music dataset to understand musical characteristics and predict song popularity using machine learning techniques.
+Various audio features such as valence, energy, acousticness, and tempo are analyzed to identify patterns in music trends.
+The system also classifies songs based on mood and acoustic nature, providing meaningful insights into listener preferences. 
+The results of this study can be used as a foundation for developing intelligent music recommendation systems in the future.
